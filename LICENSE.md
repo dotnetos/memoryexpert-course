@@ -2,7 +2,7 @@
 
 Dotnetos Ltd. Hardcore Workshop License
 
-The Async Expert Course is referred later as the Course.
+The .NET Memory Expert Course is referred later as the Course.
 
 The source code is provided to you solely for the educations purposes and can be used only by attendees of the Course that bought or received the access directly from Dotnetos Ltd.
 
