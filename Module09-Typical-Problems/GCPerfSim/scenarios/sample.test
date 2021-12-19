@@ -1,0 +1,15 @@
+﻿threadCount 4
+printEveryNthIter 1000000
+
+[phase]
+allocType reference
+testKind time
+totalLiveGB 4
+totalAllocGB 128
+
+[bucket]
+lowSize 100
+highSize 4000
+survInterval 30
+pinInterval 0
+weight 1

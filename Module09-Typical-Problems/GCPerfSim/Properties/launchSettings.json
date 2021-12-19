@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GCPerfSim": {
+      "commandName": "Project",
+      "commandLineArgs": "-file scenarios/sample.test"
+    }
+  }
+}
